@@ -1,0 +1,33 @@
+/*
+@Author: ThemeMascot
+@URL: http://ThemeMascot.com
+
+This is the file where you can add your custom styles to change the look of the
+theme. But don't modify style-main.css file.
+
+*/
+
+#testimonials {
+  margin-left: 26%;
+  margin-right: 23%;
+}
+
+#quick-contact {
+  float: right;
+}
+
+#form-send {
+  margin-left: 24%;
+}
+
+@media only screen and (max-width: 600px) {
+  #testimonials {
+    margin-left: 20%;
+    margin-right: 28%;
+  }
+
+  #form-send {
+    margin-right: 5%;
+  }
+}
+/* Your custom css codes start here: */
